@@ -7,6 +7,7 @@ Class: 44563-02
 1. Junior At Northwest Missouri State University
 2. Computer Science Major
 3. Go Cats!
+
 ![Northwest Bearcat Logo](bearcat.png)
 
 Northwest Image Location: https://en.wikipedia.org/wiki/Northwest_Missouri_State_Bearcats
