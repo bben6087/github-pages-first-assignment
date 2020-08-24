@@ -17,7 +17,6 @@ Northwest Image Location: https://en.wikipedia.org/wiki/Northwest_Missouri_State
 * Soccer
 * Golf
 * Video Games
-* Going To See Sporting Kansas City Games
 
 ## Favorite Sports Team
 * My favorite Sports Team Is Sporting Kansas City 
