@@ -21,7 +21,6 @@ Northwest Image Location: https://en.wikipedia.org/wiki/Northwest_Missouri_State
 
 ## Favorite Sports Team
 * My favorite Sports Team Is Sporting Kansas City 
-* My Family Has Season Tickets For Sporting Kanas City.
 ![Sporting Stadium](sporting.png)
 
 Sporting KC Image Location: https://www.sportingkc.com/post/2019/09/27/sporting-kc-announces-2019-sporting-club-awards-pitch-black-presented-audi
