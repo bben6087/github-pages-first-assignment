@@ -28,4 +28,5 @@ Sporting KC Image Location: https://www.sportingkc.com/post/2019/09/27/sporting-
 ## Links
 1. [GitHub Profile](https://github.com/bben6087)
 2. [LinkedIn Profile](https://www.linkedin.com/in/blake-bennett-2b2b11191/)
+3. [Northwest Missouri State University](https://www.nwmissouri.edu/)
 
