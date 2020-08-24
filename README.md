@@ -10,7 +10,7 @@ Class: 44563-02
 
 ![Northwest Bearcat Logo](bearcat.png)
 
-Northwest Image Location: https://en.wikipedia.org/wiki/Northwest_Missouri_State_Bearcats
+[Northwest Image Location](https://en.wikipedia.org/wiki/Northwest_Missouri_State_Bearcats)
 
 
 ## Hobbies
@@ -22,7 +22,7 @@ Northwest Image Location: https://en.wikipedia.org/wiki/Northwest_Missouri_State
 * My favorite Sports Team Is Sporting Kansas City 
 ![Sporting Stadium](sporting.png)
 
-Sporting KC Image Location: https://www.sportingkc.com/post/2019/09/27/sporting-kc-announces-2019-sporting-club-awards-pitch-black-presented-audi
+[Sporting KC Image Location](https://www.sportingkc.com/post/2019/09/27/sporting-kc-announces-2019-sporting-club-awards-pitch-black-presented-audi)
 
 ## Links
 1. [GitHub Profile](https://github.com/bben6087)
